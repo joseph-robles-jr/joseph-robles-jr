@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joseph-robles-jr
-- 👀 I’m interested in Amature Radio, C, C#, Mainframe, and Python.
+- 👀 I’m interested in Amature Radio, C, C#, Mainframe, Fortran, Cobol, and Python.
 - 🌱 I’m currently a Cyber Security and Computer Science Student and BYU Idaho.
 <!---
 joseph-robles-jr/joseph-robles-jr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
