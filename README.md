@@ -12,18 +12,7 @@
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** C, C#, Python, Fortran, COBOL
-- **Tools:** .NET, Bash, OpenMPI, Workday Extend
-- **Platforms:** Linux, Unix
+- **Languages:** Java, C#, Python, Javascript
+- **Tools:** .NET, Spring, Bash, Workday Extend
 
 ---
-
-## 📂 Projects
-- **Portable .NET MAUI Radio Contact Logger**  
-  Generates `.ADIF` files for import into related programs, with plans for serial radio CAT control.
-- **ROIP Repeater Dashboard**  
-  Web dashboard for controlling and monitoring linking capabilities of an ASL3-powered radio repeater.
-- **HPC Cluster Automation**  
-  Bash scripts and Python programs for job deployment across an OpenMPI-powered compute cluster.
-- **Workday Extend Payroll App**  
-  Reduced payroll finalization from 20+ clicks to just 4.
